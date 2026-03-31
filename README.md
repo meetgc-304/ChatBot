@@ -60,7 +60,6 @@ chatbot/
 ├── chatBot1/
 │   ├── app.py            # Main Streamlit chatbot app
 │   ├── requirements.txt  # Python dependencies
-│   └── .env.example      # Environment variable template
 ├── requirements.txt      # Root-level requirements
 └── .gitignore
 ```
